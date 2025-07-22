@@ -1,2 +1,4 @@
-# Atliq_Sales_Insights
-This Power BI dashboard provides a visual overview of AtliQ's sales data for years. It shows key metrics like total revenue, sales quantity, and profit. The dashboard also includes insights by market, customer, product, and monthly trends.
+## ATLIQ-Sales-Insights Data Analysis(Interactive Dashboard creation using Power BI,MYSQl)
+# Project Objective 
+The objective of this project is to create an interactive Power BI dashboard that helps AtliQ analyze and understand its sales performance across different markets, customers, and products. The dashboard enables data-driven decision-making by providing clear insights into revenue trends, top contributors, and overall sales metrics.
+
